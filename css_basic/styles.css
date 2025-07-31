@@ -30,3 +30,42 @@ header, footer {
   background-color: #ddd;
   text-align: center;
 }
+body {
+  background-color: #fafafa;
+  color: #222;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: #004080;
+  color: white;
+  padding: 1rem;
+}
+
+footer {
+  background-color: #222;
+  color: #fff;
+  padding: 1rem;
+  text-align: center;
+}
+
+article {
+  background-color: #ffffff;
+  padding: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+aside {
+  background-color: #f0f0f0;
+  padding: 1rem;
+  border-left: 3px solid #004080;
+}
+article h2 {
+  color: #004080;
+  margin-bottom: 10px;
+}
+
+article p {
+  line-height: 1.6;
+}
